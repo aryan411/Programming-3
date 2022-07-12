@@ -1,0 +1,6 @@
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Test01\Aryan-Patel_Ex-01\aryan-patel_Ex-03\bin\Debug\aryan-patel_Ex-03.exe.config
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Test01\Aryan-Patel_Ex-01\aryan-patel_Ex-03\bin\Debug\aryan-patel_Ex-03.exe
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Test01\Aryan-Patel_Ex-01\aryan-patel_Ex-03\bin\Debug\aryan-patel_Ex-03.pdb
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Test01\Aryan-Patel_Ex-01\aryan-patel_Ex-03\obj\Debug\aryan-patel_Ex-03.csproj.CoreCompileInputs.cache
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Test01\Aryan-Patel_Ex-01\aryan-patel_Ex-03\obj\Debug\aryan-patel_Ex-03.exe
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Test01\Aryan-Patel_Ex-01\aryan-patel_Ex-03\obj\Debug\aryan-patel_Ex-03.pdb

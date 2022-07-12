@@ -1,0 +1,7 @@
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceLibrary\StackInheritanceLibrary\bin\Debug\StackInheritanceLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceLibrary\StackInheritanceLibrary\bin\Debug\StackInheritanceLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceLibrary\StackInheritanceLibrary\bin\Debug\LinkedListLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceLibrary\StackInheritanceLibrary\bin\Debug\LinkedListLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceLibrary\StackInheritanceLibrary\obj\Debug\StackInheritanceLibrary.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceLibrary\StackInheritanceLibrary\obj\Debug\StackInheritanceLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceLibrary\StackInheritanceLibrary\obj\Debug\StackInheritanceLibrary.pdb

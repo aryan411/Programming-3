@@ -1,0 +1,18 @@
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceTest.exe
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceTest.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\bin\Debug\LinkedListLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\bin\Debug\LinkedListLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.exe
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.pdb
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceTest.exe
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceTest.pdb
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\StackInheritanceTest\StackInheritanceTest\bin\Debug\LinkedListLibrary.pdb
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\StackInheritanceTest\StackInheritanceTest\bin\Debug\StackInheritanceLibrary.pdb
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.csprojAssemblyReference.cache
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.csproj.CoreCompileInputs.cache
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.csproj.CopyComplete
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.exe
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\StackInheritanceTest\StackInheritanceTest\obj\Debug\StackInheritanceTest.pdb

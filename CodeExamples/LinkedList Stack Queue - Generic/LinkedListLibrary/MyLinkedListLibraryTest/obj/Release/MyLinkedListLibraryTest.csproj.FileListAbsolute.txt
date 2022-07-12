@@ -1,0 +1,10 @@
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\MyLinkedListLibraryTest\obj\Release\MyLinkedListLibraryTest.csprojAssemblyReference.cache
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\MyLinkedListLibraryTest\obj\Release\MyLinkedListLibraryTest.csproj.CoreCompileInputs.cache
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\MyLinkedListLibraryTest\bin\Release\MyLinkedListLibraryTest.exe.config
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\MyLinkedListLibraryTest\bin\Release\MyLinkedListLibraryTest.exe
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\MyLinkedListLibraryTest\bin\Release\MyLinkedListLibraryTest.pdb
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\MyLinkedListLibraryTest\bin\Release\MyLinkedListLibrary.dll
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\MyLinkedListLibraryTest\bin\Release\MyLinkedListLibrary.pdb
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\MyLinkedListLibraryTest\obj\Release\MyLinkedListLibraryTest.csproj.CopyComplete
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\MyLinkedListLibraryTest\obj\Release\MyLinkedListLibraryTest.exe
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\MyLinkedListLibraryTest\obj\Release\MyLinkedListLibraryTest.pdb

@@ -1,0 +1,9 @@
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueTest\QueueTest\bin\Debug\QueueTest.exe
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueTest\QueueTest\bin\Debug\QueueTest.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueTest\QueueTest\bin\Debug\LinkedListLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueTest\QueueTest\bin\Debug\QueueInheritanceLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueTest\QueueTest\bin\Debug\LinkedListLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueTest\QueueTest\bin\Debug\QueueInheritanceLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueTest\QueueTest\obj\Debug\QueueTest.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueTest\QueueTest\obj\Debug\QueueTest.exe
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueTest\QueueTest\obj\Debug\QueueTest.pdb

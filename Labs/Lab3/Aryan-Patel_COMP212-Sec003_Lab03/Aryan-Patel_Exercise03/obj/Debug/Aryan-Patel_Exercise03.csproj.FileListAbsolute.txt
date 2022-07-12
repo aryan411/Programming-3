@@ -1,0 +1,7 @@
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Lab3\Aryan-Patel_COMP212-Sec003_Lab03\Aryan-Patel_Exercise03\bin\Debug\Aryan-Patel_Exercise03.exe.config
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Lab3\Aryan-Patel_COMP212-Sec003_Lab03\Aryan-Patel_Exercise03\bin\Debug\Aryan-Patel_Exercise03.exe
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Lab3\Aryan-Patel_COMP212-Sec003_Lab03\Aryan-Patel_Exercise03\bin\Debug\Aryan-Patel_Exercise03.pdb
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Lab3\Aryan-Patel_COMP212-Sec003_Lab03\Aryan-Patel_Exercise03\obj\Debug\Aryan-Patel_Exercise03.csproj.AssemblyReference.cache
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Lab3\Aryan-Patel_COMP212-Sec003_Lab03\Aryan-Patel_Exercise03\obj\Debug\Aryan-Patel_Exercise03.csproj.CoreCompileInputs.cache
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Lab3\Aryan-Patel_COMP212-Sec003_Lab03\Aryan-Patel_Exercise03\obj\Debug\Aryan-Patel_Exercise03.exe
+D:\Centennial college\sem 2\Programming 3\Comp212\Labs\Lab3\Aryan-Patel_COMP212-Sec003_Lab03\Aryan-Patel_Exercise03\obj\Debug\Aryan-Patel_Exercise03.pdb

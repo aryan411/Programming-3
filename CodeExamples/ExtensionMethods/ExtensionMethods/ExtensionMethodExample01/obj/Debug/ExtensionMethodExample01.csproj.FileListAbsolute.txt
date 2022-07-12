@@ -1,0 +1,7 @@
+G:\COMP212\ExtensionMethods\ExtensionMethodExample01\bin\Debug\ExtensionMethodExample01.exe.config
+G:\COMP212\ExtensionMethods\ExtensionMethodExample01\bin\Debug\ExtensionMethodExample01.exe
+G:\COMP212\ExtensionMethods\ExtensionMethodExample01\bin\Debug\ExtensionMethodExample01.pdb
+G:\COMP212\ExtensionMethods\ExtensionMethodExample01\obj\Debug\ExtensionMethodExample01.csprojAssemblyReference.cache
+G:\COMP212\ExtensionMethods\ExtensionMethodExample01\obj\Debug\ExtensionMethodExample01.csproj.CoreCompileInputs.cache
+G:\COMP212\ExtensionMethods\ExtensionMethodExample01\obj\Debug\ExtensionMethodExample01.exe
+G:\COMP212\ExtensionMethods\ExtensionMethodExample01\obj\Debug\ExtensionMethodExample01.pdb

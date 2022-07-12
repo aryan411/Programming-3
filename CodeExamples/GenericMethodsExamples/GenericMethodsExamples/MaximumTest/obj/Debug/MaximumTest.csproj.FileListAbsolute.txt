@@ -1,0 +1,6 @@
+G:\COMP212\GenericMethodsExamples\MaximumTest\bin\Debug\MaximumTest.exe.config
+G:\COMP212\GenericMethodsExamples\MaximumTest\bin\Debug\MaximumTest.exe
+G:\COMP212\GenericMethodsExamples\MaximumTest\bin\Debug\MaximumTest.pdb
+G:\COMP212\GenericMethodsExamples\MaximumTest\obj\Debug\MaximumTest.csproj.CoreCompileInputs.cache
+G:\COMP212\GenericMethodsExamples\MaximumTest\obj\Debug\MaximumTest.exe
+G:\COMP212\GenericMethodsExamples\MaximumTest\obj\Debug\MaximumTest.pdb

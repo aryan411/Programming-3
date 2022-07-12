@@ -1,0 +1,25 @@
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\bin\Debug\ListTest.exe
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\bin\Debug\ListTest.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\bin\Debug\LinkedListLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\bin\Debug\LinkedListLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\obj\Debug\ListTest.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\obj\Debug\ListTest.exe
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\obj\Debug\ListTest.pdb
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\ListTest\ListTest\bin\Debug\ListTest.exe
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\ListTest\ListTest\bin\Debug\ListTest.pdb
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\ListTest\ListTest\bin\Debug\LinkedListLibrary.pdb
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\ListTest\ListTest\obj\Debug\ListTest.csprojAssemblyReference.cache
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\ListTest\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\ListTest\ListTest\obj\Debug\ListTest.csproj.CopyComplete
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\ListTest\ListTest\obj\Debug\ListTest.exe
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\ListTest\ListTest\obj\Debug\ListTest.pdb
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\ListTest\ListTest\bin\Debug\LinkedListLibrary.dll
+D:\COMP212\Sec005\Week02\ListTest\ListTest\bin\Debug\ListTest.exe
+D:\COMP212\Sec005\Week02\ListTest\ListTest\bin\Debug\ListTest.pdb
+D:\COMP212\Sec005\Week02\ListTest\ListTest\bin\Debug\LinkedListLibrary.dll
+D:\COMP212\Sec005\Week02\ListTest\ListTest\bin\Debug\LinkedListLibrary.pdb
+D:\COMP212\Sec005\Week02\ListTest\ListTest\obj\Debug\ListTest.csprojAssemblyReference.cache
+D:\COMP212\Sec005\Week02\ListTest\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+D:\COMP212\Sec005\Week02\ListTest\ListTest\obj\Debug\ListTest.csproj.CopyComplete
+D:\COMP212\Sec005\Week02\ListTest\ListTest\obj\Debug\ListTest.exe
+D:\COMP212\Sec005\Week02\ListTest\ListTest\obj\Debug\ListTest.pdb

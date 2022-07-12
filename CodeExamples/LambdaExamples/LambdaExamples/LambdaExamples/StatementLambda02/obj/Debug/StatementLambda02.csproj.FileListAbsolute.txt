@@ -1,0 +1,12 @@
+C:\COMP212\LambdaExamples\StatementLambda02\bin\Debug\StatementLambda02.exe.config
+C:\COMP212\LambdaExamples\StatementLambda02\bin\Debug\StatementLambda02.exe
+C:\COMP212\LambdaExamples\StatementLambda02\bin\Debug\StatementLambda02.pdb
+C:\COMP212\LambdaExamples\StatementLambda02\obj\Debug\StatementLambda02.exe
+C:\COMP212\LambdaExamples\StatementLambda02\obj\Debug\StatementLambda02.pdb
+D:\COMP212\Sec003\LambdaExamples\LambdaExamples\StatementLambda02\bin\Debug\StatementLambda02.exe.config
+D:\COMP212\Sec003\LambdaExamples\LambdaExamples\StatementLambda02\bin\Debug\StatementLambda02.exe
+D:\COMP212\Sec003\LambdaExamples\LambdaExamples\StatementLambda02\bin\Debug\StatementLambda02.pdb
+D:\COMP212\Sec003\LambdaExamples\LambdaExamples\StatementLambda02\obj\Debug\StatementLambda02.csprojAssemblyReference.cache
+D:\COMP212\Sec003\LambdaExamples\LambdaExamples\StatementLambda02\obj\Debug\StatementLambda02.csproj.CoreCompileInputs.cache
+D:\COMP212\Sec003\LambdaExamples\LambdaExamples\StatementLambda02\obj\Debug\StatementLambda02.exe
+D:\COMP212\Sec003\LambdaExamples\LambdaExamples\StatementLambda02\obj\Debug\StatementLambda02.pdb

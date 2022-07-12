@@ -1,0 +1,6 @@
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueInheritanceLibrary\QueueInheritanceLibrary\bin\Debug\QueueInheritanceLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueInheritanceLibrary\QueueInheritanceLibrary\bin\Debug\QueueInheritanceLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueInheritanceLibrary\QueueInheritanceLibrary\bin\Debug\LinkedListLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueInheritanceLibrary\QueueInheritanceLibrary\bin\Debug\LinkedListLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueInheritanceLibrary\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\QueueInheritanceLibrary\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.pdb

@@ -1,0 +1,16 @@
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\bin\Debug\ListTest.exe
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\bin\Debug\ListTest.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\bin\Debug\LinkedListLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\bin\Debug\LinkedListLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\obj\Debug\ListTest.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\obj\Debug\ListTest.exe
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\ListTest\ListTest\obj\Debug\ListTest.pdb
+C:\COMP212\CodeExamples\ListTest\ListTest\bin\Debug\ListTest.exe
+C:\COMP212\CodeExamples\ListTest\ListTest\bin\Debug\ListTest.pdb
+C:\COMP212\CodeExamples\ListTest\ListTest\bin\Debug\LinkedListLibrary.pdb
+C:\COMP212\CodeExamples\ListTest\ListTest\obj\Debug\ListTest.csprojAssemblyReference.cache
+C:\COMP212\CodeExamples\ListTest\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+C:\COMP212\CodeExamples\ListTest\ListTest\obj\Debug\ListTest.csproj.CopyComplete
+C:\COMP212\CodeExamples\ListTest\ListTest\obj\Debug\ListTest.exe
+C:\COMP212\CodeExamples\ListTest\ListTest\obj\Debug\ListTest.pdb
+C:\COMP212\CodeExamples\ListTest\ListTest\bin\Debug\LinkedListLibrary.dll

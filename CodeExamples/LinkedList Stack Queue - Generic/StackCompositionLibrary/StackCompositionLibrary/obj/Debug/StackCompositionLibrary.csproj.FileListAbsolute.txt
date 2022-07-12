@@ -1,0 +1,6 @@
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackCompositionLibrary\StackCompositionLibrary\bin\Debug\StackCompositionLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackCompositionLibrary\StackCompositionLibrary\bin\Debug\StackCompositionLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackCompositionLibrary\StackCompositionLibrary\bin\Debug\LinkedListLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackCompositionLibrary\StackCompositionLibrary\bin\Debug\LinkedListLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackCompositionLibrary\StackCompositionLibrary\obj\Debug\StackCompositionLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\StackCompositionLibrary\StackCompositionLibrary\obj\Debug\StackCompositionLibrary.pdb

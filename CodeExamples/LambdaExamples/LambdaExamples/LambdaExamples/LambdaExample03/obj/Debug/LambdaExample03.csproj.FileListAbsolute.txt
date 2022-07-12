@@ -1,0 +1,7 @@
+D:\COMP212\Sec001\LambdasDelegates\LambdaExamples\LambdaExamples\LambdaExample03\bin\Debug\LambdaExample03.exe.config
+D:\COMP212\Sec001\LambdasDelegates\LambdaExamples\LambdaExamples\LambdaExample03\bin\Debug\LambdaExample03.exe
+D:\COMP212\Sec001\LambdasDelegates\LambdaExamples\LambdaExamples\LambdaExample03\bin\Debug\LambdaExample03.pdb
+D:\COMP212\Sec001\LambdasDelegates\LambdaExamples\LambdaExamples\LambdaExample03\obj\Debug\LambdaExample03.csprojAssemblyReference.cache
+D:\COMP212\Sec001\LambdasDelegates\LambdaExamples\LambdaExamples\LambdaExample03\obj\Debug\LambdaExample03.csproj.CoreCompileInputs.cache
+D:\COMP212\Sec001\LambdasDelegates\LambdaExamples\LambdaExamples\LambdaExample03\obj\Debug\LambdaExample03.exe
+D:\COMP212\Sec001\LambdasDelegates\LambdaExamples\LambdaExamples\LambdaExample03\obj\Debug\LambdaExample03.pdb

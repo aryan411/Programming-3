@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "aryan-patel_Ex-01/1.0.0": {
+        "runtime": {
+          "aryan-patel_Ex-01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aryan-patel_Ex-01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

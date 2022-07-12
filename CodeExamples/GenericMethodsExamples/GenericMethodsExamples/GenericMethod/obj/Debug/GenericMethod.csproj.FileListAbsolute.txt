@@ -1,0 +1,7 @@
+G:\COMP212\GenericMethodsExamples\GenericMethod\bin\Debug\GenericMethod.exe.config
+G:\COMP212\GenericMethodsExamples\GenericMethod\bin\Debug\GenericMethod.exe
+G:\COMP212\GenericMethodsExamples\GenericMethod\bin\Debug\GenericMethod.pdb
+G:\COMP212\GenericMethodsExamples\GenericMethod\obj\Debug\GenericMethod.csprojAssemblyReference.cache
+G:\COMP212\GenericMethodsExamples\GenericMethod\obj\Debug\GenericMethod.csproj.CoreCompileInputs.cache
+G:\COMP212\GenericMethodsExamples\GenericMethod\obj\Debug\GenericMethod.exe
+G:\COMP212\GenericMethodsExamples\GenericMethod\obj\Debug\GenericMethod.pdb

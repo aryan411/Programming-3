@@ -1,0 +1,7 @@
+G:\COMP212\GenericMethodsExamples\NonGenericMethodExample\bin\Debug\NonGenericMethodExample.exe.config
+G:\COMP212\GenericMethodsExamples\NonGenericMethodExample\bin\Debug\NonGenericMethodExample.exe
+G:\COMP212\GenericMethodsExamples\NonGenericMethodExample\bin\Debug\NonGenericMethodExample.pdb
+G:\COMP212\GenericMethodsExamples\NonGenericMethodExample\obj\Debug\NonGenericMethodExample.csprojAssemblyReference.cache
+G:\COMP212\GenericMethodsExamples\NonGenericMethodExample\obj\Debug\NonGenericMethodExample.csproj.CoreCompileInputs.cache
+G:\COMP212\GenericMethodsExamples\NonGenericMethodExample\obj\Debug\NonGenericMethodExample.exe
+G:\COMP212\GenericMethodsExamples\NonGenericMethodExample\obj\Debug\NonGenericMethodExample.pdb

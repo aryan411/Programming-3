@@ -1,0 +1,7 @@
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\MulticastDelegates\bin\Debug\MulticastDelegates.exe.config
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\MulticastDelegates\bin\Debug\MulticastDelegates.exe
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\MulticastDelegates\bin\Debug\MulticastDelegates.pdb
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\MulticastDelegates\obj\Debug\MulticastDelegates.csprojAssemblyReference.cache
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\MulticastDelegates\obj\Debug\MulticastDelegates.csproj.CoreCompileInputs.cache
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\MulticastDelegates\obj\Debug\MulticastDelegates.exe
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\MulticastDelegates\obj\Debug\MulticastDelegates.pdb

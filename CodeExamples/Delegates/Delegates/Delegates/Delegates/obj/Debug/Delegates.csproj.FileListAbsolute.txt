@@ -1,0 +1,13 @@
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Delegates\Delegates\bin\Debug\Delegates.exe.config
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Delegates\Delegates\bin\Debug\Delegates.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Delegates\Delegates\bin\Debug\Delegates.pdb
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Delegates\Delegates\obj\Debug\Delegates.exe
+L:\A-Teaching\Centennial\Winter 2017\Code Examples\Delegates\Delegates\obj\Debug\Delegates.pdb
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\Delegates\bin\Debug\Delegates.exe.config
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\Delegates\bin\Debug\Delegates.exe
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\Delegates\bin\Debug\Delegates.pdb
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\Delegates\obj\Debug\Delegates.exe
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\Delegates\Delegates\obj\Debug\Delegates.pdb

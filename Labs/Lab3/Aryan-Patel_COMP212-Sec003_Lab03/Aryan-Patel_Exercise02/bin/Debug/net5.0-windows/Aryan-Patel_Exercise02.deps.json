@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aryan-Patel_Exercise02/1.0.0": {
+        "runtime": {
+          "Aryan-Patel_Exercise02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aryan-Patel_Exercise02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

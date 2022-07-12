@@ -1,0 +1,12 @@
+C:\COMP212\LambdaExamples\ExpressLambda02\bin\Debug\ExpressLambda02.exe.config
+C:\COMP212\LambdaExamples\ExpressLambda02\bin\Debug\ExpressLambda02.exe
+C:\COMP212\LambdaExamples\ExpressLambda02\bin\Debug\ExpressLambda02.pdb
+C:\COMP212\LambdaExamples\ExpressLambda02\obj\Debug\ExpressLambda02.exe
+C:\COMP212\LambdaExamples\ExpressLambda02\obj\Debug\ExpressLambda02.pdb
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\LambdaExamples\ExpressLambda02\bin\Debug\ExpressLambda02.exe.config
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\LambdaExamples\ExpressLambda02\bin\Debug\ExpressLambda02.exe
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\LambdaExamples\ExpressLambda02\bin\Debug\ExpressLambda02.pdb
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\LambdaExamples\ExpressLambda02\obj\Debug\ExpressLambda02.csprojAssemblyReference.cache
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\LambdaExamples\ExpressLambda02\obj\Debug\ExpressLambda02.csproj.CoreCompileInputs.cache
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\LambdaExamples\ExpressLambda02\obj\Debug\ExpressLambda02.exe
+G:\A-Teaching\Centennial\Winter2020\COMP212\CodeExamples\DelegatesAndLambdasExamples\LambdaExamples\ExpressLambda02\obj\Debug\ExpressLambda02.pdb

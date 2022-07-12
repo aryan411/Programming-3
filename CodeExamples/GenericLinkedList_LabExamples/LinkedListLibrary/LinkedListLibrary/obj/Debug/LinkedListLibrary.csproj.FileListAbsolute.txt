@@ -1,0 +1,17 @@
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.pdb
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.csprojResolveAssemblyReference.cache
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.dll
+L:\A-Teaching\Centennial\Winter 2017\PPTs\ch19\Code-Examples_Ch19_Data-Structures\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.pdb
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.dll
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.pdb
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.csprojAssemblyReference.cache
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.csproj.CoreCompileInputs.cache
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.dll
+D:\COMP212\Sec005\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.pdb
+D:\COMP212\Sec005\Week02\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.dll
+D:\COMP212\Sec005\Week02\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.pdb
+D:\COMP212\Sec005\Week02\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.csprojAssemblyReference.cache
+D:\COMP212\Sec005\Week02\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.csproj.CoreCompileInputs.cache
+D:\COMP212\Sec005\Week02\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.dll
+D:\COMP212\Sec005\Week02\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.pdb

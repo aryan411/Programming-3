@@ -1,0 +1,5 @@
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\bin\Release\LinkedListLibrary.dll
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\bin\Release\LinkedListLibrary.pdb
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\obj\Release\LinkedListLibrary.csproj.CoreCompileInputs.cache
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\obj\Release\LinkedListLibrary.dll
+C:\COMP212\Custom Data Structure\Code Examples Custom LinkedList Stack Queue\LinkedListLibrary\LinkedListLibrary\obj\Release\LinkedListLibrary.pdb
