@@ -27,7 +27,7 @@ namespace Aryan_Patel_Exercise05
                 var linqTimeEnd = DateTime.Now;
 
                 var linqTime = linqTimeEnd.Subtract(linqTimeStart).TotalMilliseconds;
-                Console.WriteLine($"\nDist: {linqDistinct}\ntime:{linqTime}\n");
+                Console.WriteLine($"\nDist: {linqDistinct}\nSum:{linqSum}\ntime:{linqTime}\n");
 
                 Console.WriteLine("\nSum, Distinct count with using PLINQ:");
                 // using plinq
@@ -38,7 +38,7 @@ namespace Aryan_Patel_Exercise05
 
                 // display the result
                 var plinqTime = plinqTimeEnd.Subtract(plinqTimeStart).TotalMilliseconds;
-                Console.WriteLine($"\nDist: {plinqDistinct}\ntime:{plinqTime}\n");
+                Console.WriteLine($"\nDist: {plinqDistinct}\nSum:{plinqSum}\ntime:{plinqTime}\n");
             }
             catch (Exception ex)
             {
