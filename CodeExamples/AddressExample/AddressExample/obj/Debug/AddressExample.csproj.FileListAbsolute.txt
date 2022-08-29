@@ -1,0 +1,26 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressExample\bin\Debug\AddressBook.mdf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressExample\bin\Debug\AddressBook_log.ldf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressExample\bin\Debug\AddressExample.dll.config
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressExample\bin\Debug\AddressExample.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressExample\bin\Debug\AddressExample.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressExample\bin\Debug\EntityFramework.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressExample\bin\Debug\EntityFramework.SqlServer.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressExample\bin\Debug\EntityFramework.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressExample\bin\Debug\EntityFramework.SqlServer.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressExample\obj\Debug\AddressExample.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressExample\obj\Debug\AddressExample.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressExample\obj\Debug\AddressExample.pdb
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\bin\Debug\AddressBook.mdf
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\bin\Debug\AddressBook_log.ldf
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\bin\Debug\AddressExample.dll.config
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\bin\Debug\AddressExample.dll
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\bin\Debug\AddressExample.pdb
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\bin\Debug\EntityFramework.dll
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\bin\Debug\EntityFramework.xml
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\obj\Debug\AddressExample.csproj.AssemblyReference.cache
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\obj\Debug\AddressExample.csproj.CoreCompileInputs.cache
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\obj\Debug\AddressExample.csproj.CopyComplete
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\obj\Debug\AddressExample.dll
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressExample\obj\Debug\AddressExample.pdb

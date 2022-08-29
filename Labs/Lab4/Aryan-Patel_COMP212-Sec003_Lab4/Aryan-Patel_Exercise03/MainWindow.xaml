@@ -1,0 +1,46 @@
+﻿<Window x:Class="Aryan_Patel_Exercise03.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aryan_Patel_Exercise03"
+        mc:Ignorable="d"
+        Title="Restaurant Bill Calculator" Height="522.029" Width="512.244">
+    <Grid Background="Azure" Margin="0,0,2,0" Height="490" VerticalAlignment="Top">
+        <StatusBar Name="mainStatusBar" HorizontalAlignment="Left" Height="37" Margin="244,443,0,0" VerticalAlignment="Top" Width="248" Background="Gray" >
+            <Image Name="logoStatusBar" Source=".\Images\centennial_logo.jpg" Width="114" MouseDown="centennialLogo_mouseDown" Height="36"/>
+            <Label Name="nameStatusBar" Content="Aryan Patel" Width="125" Height="37" FontSize="14" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="White" />
+        </StatusBar>
+        <Label Content="Beverage" HorizontalAlignment="Left" Margin="10,20,0,0" VerticalAlignment="Top" Height="30" Width="93" FontSize="14" FontWeight="Bold" Background="Gray" />
+        <Label Content="Appetizer" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" Height="30" Width="93" FontSize="14" FontWeight="Bold" Background="Gray" />
+        <Label Content="Main Course" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Height="30" Width="93" FontSize="14" FontWeight="Bold" Background="Gray" />
+        <Label Content="Dessert" HorizontalAlignment="Left" Margin="10,125,0,0" VerticalAlignment="Top" Height="30" Width="93" FontSize="14" FontWeight="Bold" Background="Gray" />
+
+        <ComboBox Name="cbBeverage" HorizontalAlignment="Left" Margin="108,20,0,0" VerticalAlignment="Top" Width="153" FontSize="14" Height="30" SelectionChanged="cbBeverage_SelectionChanged" DropDownOpened="cbBeverage_OnDropDownOpened" />
+        <ComboBox x:Name="cbAppetizer" HorizontalAlignment="Left" Margin="108,55,0,0" VerticalAlignment="Top" Width="153" FontSize="14" Height="30" SelectionChanged="cbAppetizer_SelectionChanged" DropDownOpened="cbAppetizer_OnDropDownOpened" />
+        <ComboBox x:Name="cbMainCourse" HorizontalAlignment="Left" Margin="108,90,0,0" VerticalAlignment="Top" Width="153" FontSize="14" Height="30" SelectionChanged="cbMainCourse_SelectionChanged" DropDownOpened="cbMainCourse_OnDropDownOpened" />
+        <ComboBox x:Name="cbDessert" HorizontalAlignment="Left" Margin="108,125,0,0" VerticalAlignment="Top" Width="153" FontSize="14" Height="30" SelectionChanged="cbDessert_SelectionChanged" DropDownOpened="cbDessert_OnDropDownOpened" />
+
+        <Label Content="Sub Total:" HorizontalAlignment="Left" Margin="315,20,0,0" VerticalAlignment="Top" Height="30" Width="74" FontSize="14" FontWeight="Bold" Background="Gray" />
+        <Label Content="Tax:" HorizontalAlignment="Left" Margin="315,55,0,0" VerticalAlignment="Top" Height="30" Width="74" FontSize="14" FontWeight="Bold" Background="Gray" />
+        <Label Content="Total:" HorizontalAlignment="Left" Margin="315,90,0,0" VerticalAlignment="Top" Height="30" Width="74" FontSize="14" FontWeight="Bold" Background="Gray" />
+        <Label Name="labelSubTotal" Content="$0.00" HorizontalAlignment="Right" Margin="0,20,34,0" VerticalAlignment="Top" Height="30" Width="74" FontSize="14" FontWeight="Bold" Background="AliceBlue" HorizontalContentAlignment="Right" />
+        <Label x:Name="labelTax" Content="$0.00" HorizontalAlignment="Right" Margin="0,55,34,0" VerticalAlignment="Top" Height="30" Width="74" FontSize="14" FontWeight="Bold" Background="AliceBlue" HorizontalContentAlignment="Right" />
+        <Label x:Name="labelTotal" Content="$0.00" HorizontalAlignment="Right" Margin="0,90,34,0" VerticalAlignment="Top" Height="30" Width="74" FontSize="14" FontWeight="Bold" Background="AliceBlue" HorizontalContentAlignment="Right" />
+
+        <DataGrid x:Name="dgBillItems" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="252" Margin="10,178,0,0" 
+                  ItemsSource="{Binding}" VerticalScrollBarVisibility="Auto" CanUserAddRows="False"
+                  RowBackground="LightYellow" CellEditEnding="dgBillItems_CellEditEnding"
+                  VerticalAlignment="Top" Width="351" GridLinesVisibility="All" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="90" IsReadOnly="True" />
+                <DataGridTextColumn Header="Category" Binding="{Binding Category}" Width="120" IsReadOnly="True" />
+                <DataGridTextColumn Header="Price" Binding="{Binding Price , StringFormat={}${0}}" Width="80" IsReadOnly="True" />
+                <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity, Mode=TwoWay}" Width="*" IsReadOnly="False" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Remove Item" HorizontalAlignment="Left" Margin="377,353,0,0" VerticalAlignment="Top" Width="102" Height="36" FontSize="14" Background="White" Click="btnRemoveItem_Click" />
+        <Button Content="Clear Bill" HorizontalAlignment="Left" Margin="377,394,0,0" VerticalAlignment="Top" Width="102" Height="36" FontSize="14" Background="White" Click="btnClearBill_Click" />
+
+    </Grid>
+</Window>

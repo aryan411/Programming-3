@@ -1,0 +1,20 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\bin\Debug\AddressBook.exe.config
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\bin\Debug\AddressBook.mdf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\bin\Debug\AddressBook_log.ldf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\bin\Debug\AddressBook.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\bin\Debug\AddressBook.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\bin\Debug\AddressExample.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\bin\Debug\EntityFramework.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\bin\Debug\EntityFramework.SqlServer.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\bin\Debug\AddressExample.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\bin\Debug\EntityFramework.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\bin\Debug\EntityFramework.SqlServer.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\obj\Debug\AddressBook.Contacts.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\obj\Debug\AddressBook.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\AddressExample\AddressBook\obj\Debug\AddressBook.pdb
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressBook\obj\Debug\AddressBook.exe
+D:\Centennial college\sem 2\Programming 3\Comp212\CodeExamples\AddressExample\AddressBook\obj\Debug\AddressBook.pdb
